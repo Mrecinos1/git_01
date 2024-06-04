@@ -16,6 +16,17 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+Little maidens, when you look
+
+On this little story-book,
+
+Reading with attentive eye
+
+Its enticing history,
+
+Never think that hours of play
+
+
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
@@ -62,3 +73,44 @@ After the day was done —
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+
+In the quiet dawn, a whispering breeze,
+
+Dances through the leaves with effortless ease.
+
+Golden light kisses the morning dew,
+
+Awakening dreams that the night once knew.
+
+Birds compose a symphony in the trees,
+
+Melodies mingling with the rustling seas.
+
+A tapestry of colors paints the sky,
+
+As the sun ascends, bidding stars goodbye.
+
+Footsteps wander on a sandy shore,
+
+Tracing tales of those who've walked before.
+
+Waves embrace the land with gentle grace,
+
+Erasing lines in an endless chase.
+
+Flowers bloom in gardens rich and wide,
+
+Nature's artistry, a world inside.
+
+Butterflies drift on a fragrant breeze,
+
+Lost in the rhythm of swaying trees.
+
+As day gives way to twilight's embrace,
+
+Stars emerge to take their place.
+
+The moon whispers secrets to the night,
+
+Guiding dreams with its silvery light.
+
